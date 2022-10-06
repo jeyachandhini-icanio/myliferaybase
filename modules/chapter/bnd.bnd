@@ -1,0 +1,4 @@
+Bundle-Name: chapter
+Bundle-SymbolicName: com.test.chapters
+Bundle-Version: 1.0.0
+Export-Package: com.test.chapters.constants

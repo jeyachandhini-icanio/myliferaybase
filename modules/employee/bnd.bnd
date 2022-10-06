@@ -1,0 +1,4 @@
+Bundle-Name: employee
+Bundle-SymbolicName: com.test.employees
+Bundle-Version: 1.0.0
+Export-Package: com.test.employees.constants

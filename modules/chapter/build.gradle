@@ -1,0 +1,7 @@
+dependencies {
+	compileOnly group: "com.liferay.portal", name: "release.portal.api"
+	compileOnly group: 'com.liferay.portal', name: 'com.liferay.portal.kernel', version: '58.0.0'
+
+	cssBuilder group: "com.liferay", name: "com.liferay.css.builder", version: "3.1.0"
+	compileOnly 'com.liferay.portal:com.liferay.portal.kernel'
+}

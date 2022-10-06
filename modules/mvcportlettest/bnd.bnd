@@ -1,0 +1,4 @@
+Bundle-Name: mvcportlettest
+Bundle-SymbolicName: com.test.sample
+Bundle-Version: 1.0.0
+Export-Package: com.test.sample.constants
